@@ -3,6 +3,30 @@
 
 Written in Python for a lab from my algorithms course. Tested up to N = 50,000
 
-Sample output (N = 50): [pygrid50.txt](https://github.com/leonardbonfils/grid-generator/files/8178010/pygrid50.txt)
+Sample output (N = 20):
+
+```txt
+20
+dxqwbfuwjjajdreiamat
+polihpmurjzronouexpo
+fgpqhuxvojgtommefgpe
+superplitxptiltgyatr
+dloenikauhgmhbhklotp
+zhpgmlupagmjhjpinotr
+poqdluavtdagvpliwycp
+topinreeleqdhrquiwpo
+rolemoqhmenmotlozmpe
+pellejlmjtnrmpratlot
+pereuynnipffksbthonp
+tommeqpeoduuaiwytert
+dvvijrwoitpgitmtnoue
+vpainpinotpiloterplu
+mamlwufbksitouterole
+ciunijthulqpwmqpnbro
+lotpintiltaanqhzsper
+upiuxjlmspsqnjyhcfrp
+hubdljqtfoexidzfsupe
+cliplinouegtfflokrhp
+```
 
 ![Image](https://i.imgur.com/IOBY1iG.png)
