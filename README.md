@@ -3,8 +3,7 @@
 
 Written in Python for a lab from my algorithms course. Tested up to N = 50,000
 
-**Sample output (N = 20)
-**
+**Sample output (N = 20)**
 ```txt
 20
 dxqwbfuwjjajdreiamat
